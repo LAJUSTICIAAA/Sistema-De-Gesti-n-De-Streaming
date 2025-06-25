@@ -1,0 +1,2 @@
+# Ignorar archivos .mp4 del proyecto
+/static/*.mp4
